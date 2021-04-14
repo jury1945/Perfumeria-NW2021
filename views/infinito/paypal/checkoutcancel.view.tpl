@@ -1,1 +1,0 @@
-<h1 class="center">Lo sentimos. el Pago ha sido cancelado</h1>
